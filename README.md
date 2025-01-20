@@ -1,4 +1,5 @@
 # Juego-EDA
+Juego para la asignatura EDA.
 
 1 Introduction Crematoria is a planet in the Igneon System. Many years ago, its surface was not habitable because of its extreme temperatures: one would be incinerated if in the sunlight, or frozen solid at night. Because there was only a small buffer of minutes where travel on the surface was possible, a maximum security prison was built in some caves underground, from where it was almost impossible to escape. Some elevators connected the surface of the planet to the prison.
 
